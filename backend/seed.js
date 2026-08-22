@@ -75,15 +75,15 @@ const importData = async () => {
     });
 
     if (!existingAdmin) {
-      // const salt = await bcrypt.genSalt(10);
-      // const hashedPassword = await bcrypt.hash('password123', salt);
+    //   const salt = await bcrypt.genSalt(10);
+    //   const hashedPassword = await bcrypt.hash('password123', salt);
 
-      // await User.create({
-      //   name: 'Admin User',
-      //   email: 'admin@shopnest.com',
-      //   password: hashedPassword,
-      //   role: 'admin'
-      // });
+    //   await User.create({
+    //     name: 'Admin User',
+    //     email: 'admin@shopnest.com',
+    //     password: hashedPassword,
+    //     role: 'admin'
+    //   });
 
       const salt = await bcrypt.genSalt(10);
 
