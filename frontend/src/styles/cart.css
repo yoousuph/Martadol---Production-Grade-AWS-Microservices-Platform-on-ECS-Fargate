@@ -71,8 +71,8 @@
 }
 
 .qty-controls button:hover {
-  background: #f97316;
-  border-color: #f97316;
+  background: #0cea35;
+  border-color: #0cea35;
 }
 
 .qty-controls span {
@@ -82,7 +82,7 @@
 
 .btn-remove {
   background: rgba(239, 68, 68, 0.1);
-  color: #ef4444;
+  color: #0cea35;
   border: 1px solid rgba(239, 68, 68, 0.3);
   padding: 8px 16px;
   border-radius: 6px;
@@ -93,7 +93,7 @@
 }
 
 .btn-remove:hover {
-  background: #ef4444;
+  background: #0cea35;
   color: #fff;
 }
 
@@ -150,7 +150,7 @@
 }
 
 .shipping-form input:focus {
-  border-color: #f97316;
+  border-color: #0cea35;
 }
 
 .checkout-summary {
@@ -163,7 +163,7 @@
 .checkout-summary h4 {
   font-size: 1.5rem;
   margin-bottom: 20px;
-  color: #f97316;
+  color: #0cea35;
 }
 
 @media (max-width: 768px) {

@@ -79,7 +79,7 @@ const Checkout = () => {
           contact: '9999999999'
         },
         theme: {
-          color: '#f97316'
+          color: '#0cea35'
         }
       };
       

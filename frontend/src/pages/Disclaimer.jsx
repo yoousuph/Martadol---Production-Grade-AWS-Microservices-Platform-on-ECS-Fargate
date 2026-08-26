@@ -22,17 +22,17 @@ const Disclaimer = () => {
         The data, interfaces, and graphical components represented across the ShopNest domain strictly act uniquely as an educational development platform. This codebase models rigorous application structures and architectures for purely demonstrative, portfolio-oriented engineering usage.
       </p>
 
-      <h4 style={{ color: '#f97316', marginTop: '25px', marginBottom: '10px' }}>1. Accuracy of Materials</h4>
+      <h4 style={{ color: '#0cea35', marginTop: '25px', marginBottom: '10px' }}>1. Accuracy of Materials</h4>
       <p style={{ marginBottom: '15px' }}>
         The materials spanning the ShopNest interface may heavily include dynamic technical, typographical, or dummy photographic elements. Product matrices mapped in the DB pipeline do absolutely not correlate to strictly real physical outputs and are safely populated via generic Unsplash imagery protocols.
       </p>
 
-      <h4 style={{ color: '#f97316', marginTop: '25px', marginBottom: '10px' }}>2. Payment Processing Restrictions</h4>
+      <h4 style={{ color: '#0cea35', marginTop: '25px', marginBottom: '10px' }}>2. Payment Processing Restrictions</h4>
       <p style={{ marginBottom: '15px' }}>
         No authentic financial variables are handled natively within this environment. All payment endpoints forcefully bind exclusively to external testing-based networks (Sandbox Razorpay environments). No exact deductibles exist.
       </p>
 
-      <h4 style={{ color: '#f97316', marginTop: '25px', marginBottom: '10px' }}>3. External Binding Links</h4>
+      <h4 style={{ color: '#0cea35', marginTop: '25px', marginBottom: '10px' }}>3. External Binding Links</h4>
       <p style={{ marginBottom: '15px' }}>
         ShopNest operates completely independent domains and takes strictly zero absolute parameter responsibility over the specific contents or behaviors populated via external routing anchors generated implicitly by third-party configurations. 
       </p>

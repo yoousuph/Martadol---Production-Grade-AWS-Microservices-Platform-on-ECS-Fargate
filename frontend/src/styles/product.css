@@ -83,7 +83,7 @@
 .price {
   font-size: 22px;
   font-weight: 700;
-  color: #f97316;
+  color: #0cea35;
   margin-bottom: 15px;
 }
 
@@ -103,7 +103,7 @@
 }
 
 .search-bar:focus {
-  border-color: #f97316;
+  border-color: #0cea35;
   box-shadow: 0 0 0 3px rgba(249, 115, 22, 0.1);
 }
 
@@ -138,7 +138,7 @@
 
 .detail-price {
   font-size: 2rem;
-  color: #f97316;
+  color: #0cea35;
   font-weight: 700;
   margin-bottom: 25px;
 }

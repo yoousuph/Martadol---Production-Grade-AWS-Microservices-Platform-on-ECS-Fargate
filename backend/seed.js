@@ -71,19 +71,10 @@ const importData = async () => {
     // ------------------------------------------------
 
     const existingAdmin = await User.findOne({
-      email: 'admin@shopnest.com'
+      email: 'admin@martadol.com'
     });
 
     if (!existingAdmin) {
-    //   const salt = await bcrypt.genSalt(10);
-    //   const hashedPassword = await bcrypt.hash('password123', salt);
-
-    //   await User.create({
-    //     name: 'Admin User',
-    //     email: 'admin@shopnest.com',
-    //     password: hashedPassword,
-    //     role: 'admin'
-    //   });
 
       const salt = await bcrypt.genSalt(10);
 
