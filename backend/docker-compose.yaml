@@ -1,0 +1,12 @@
+services:
+  backend:
+    image: ac4b6d0392d7
+    container_name: backend
+    ports:
+      - "5000:5000"
+    networks:
+      - martadol
+
+networks:
+  martadol:
+    external: true

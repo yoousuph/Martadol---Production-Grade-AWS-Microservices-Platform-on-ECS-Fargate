@@ -1,6 +1,4 @@
-# ==========================================
 # Stage 1: Build React/Vite Application
-# ==========================================
 FROM node:22-alpine AS builder
 
 WORKDIR /app
@@ -18,9 +16,7 @@ COPY . .
 RUN npm run build
 
 
-# ==========================================
 # Stage 2: Nginx Production Server
-# ==========================================
 FROM nginx:alpine
 
 # Remove default Nginx configuration
